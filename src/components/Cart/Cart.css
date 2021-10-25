@@ -1,0 +1,9 @@
+.cart-details{
+    padding: .5rem 2rem;
+}
+.cart-details h2, h4{
+    text-align: center;
+}
+.cart-details h3{
+    color: #d08802;
+}
